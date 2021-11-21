@@ -1,3 +1,3 @@
 # rcheatsheets
 
-My cheatsheets
+Cheatsheets collected from other sources
