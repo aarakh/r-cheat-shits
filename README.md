@@ -1,3 +1,3 @@
 # r-cheat-shits
 
-Cheatsheets collected from other sources
+Cheatsheets collected from various sources
