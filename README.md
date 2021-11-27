@@ -1,8 +1,8 @@
 # r-cheat-shits
 
-Cheatsheets collected from various sources
+These cheatsheets are collected from various sources
 
-Sources
+Sources:
 
-1. https://stanford.edu/~shervine/teaching/cs-221 - for AI,DeepLearning,ML
-2. 
+1.  for AI,DeepLearning,ML - https://stanford.edu/~shervine/teaching
+2. other pdf files has it's source in title or in its contents.
