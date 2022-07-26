@@ -105,7 +105,7 @@ car_details_list <- list()
 no_of_pages = 10
 
 # sample csv name
-csv_fname = "capital-one-scapping-using-R.csv"
+csv_fname = "capital1-cars-web-scapping-using-R.csv"
 
 
 ## Main ##
